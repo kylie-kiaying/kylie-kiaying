@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Kylie (Kia Ying) </h1>
+<h3>Hi there 👋</h3>
 
+- 🤗 I’m Kylie, or you may know me as Kia Ying
 - 👀 I’m interested in all things tech!
 - 🌍 I'm based in Singapore but am open to opportunites or meeting new people from any part of the world 
 - 🌱 I’m currently learning full stack web development and system design!
